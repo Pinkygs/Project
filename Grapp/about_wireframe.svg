@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+    <!-- Background -->
+    <rect width="800" height="1200" fill="#f5f5f5"/>
+    
+    <!-- Navigation Bar -->
+    <rect x="0" y="0" width="800" height="70" fill="#ffffff" stroke="#cccccc"/>
+    <rect x="30" y="15" width="120" height="40" fill="#dddddd"/>
+    <text x="55" y="42" font-family="Arial" font-size="16" fill="#666666">LOGO</text>
+    
+    <!-- Navigation Links -->
+    <text x="400" y="42" font-family="Arial" font-size="14" fill="#333333" text-anchor="middle">Home</text>
+    <text x="480" y="42" font-family="Arial" font-size="14" fill="#333333" text-anchor="middle">Features</text>
+    <text x="560" y="42" font-family="Arial" font-size="14" fill="#333333" text-anchor="middle">Products</text>
+    <text x="640" y="42" font-family="Arial" font-size="14" fill="#666666" font-weight="bold" text-anchor="middle">About</text>
+    <text x="720" y="42" font-family="Arial" font-size="14" fill="#333333" text-anchor="middle">Contact</text>
+    
+    <!-- Page Header -->
+    <rect x="0" y="70" width="800" height="150" fill="#4CAF50" opacity="0.1"/>
+    <text x="400" y="150" font-family="Arial" font-size="36" font-weight="bold" fill="#333333" text-anchor="middle">About Us</text>
+    <text x="400" y="190" font-family="Arial" font-size="16" fill="#666666" text-anchor="middle">Protecting Your Digital World Since 2000</text>
+    
+    <!-- Mission Section -->
+    <text x="400" y="280" font-family="Arial" font-size="24" font-weight="bold" fill="#333333" text-anchor="middle">Our Mission</text>
+    <rect x="200" y="300" width="400" height="100" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <text x="400" y="350" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle" width="360">
+        To provide cutting-edge security solutions that protect
+    </text>
+    <text x="400" y="370" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle" width="360">
+        users' digital lives with innovation and reliability
+    </text>
+    
+    <!-- Vision Section -->
+    <text x="400" y="450" font-family="Arial" font-size="24" font-weight="bold" fill="#333333" text-anchor="middle">Our Vision</text>
+    <rect x="200" y="470" width="400" height="100" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <text x="400" y="520" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle" width="360">
+        A world where everyone can embrace digital technology
+    </text>
+    <text x="400" y="540" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle" width="360">
+        without fear of cyber threats
+    </text>
+    
+    <!-- Values Section -->
+    <text x="400" y="620" font-family="Arial" font-size="24" font-weight="bold" fill="#333333" text-anchor="middle">Our Values</text>
+    
+    <!-- Values Cards -->
+    <rect x="100" y="650" width="180" height="150" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <text x="190" y="700" font-family="Arial" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">Innovation</text>
+    
+    <rect x="310" y="650" width="180" height="150" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <text x="400" y="700" font-family="Arial" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">Integrity</text>
+    
+    <rect x="520" y="650" width="180" height="150" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <text x="610" y="700" font-family="Arial" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">Excellence</text>
+    
+    <!-- Team Section -->
+    <text x="400" y="870" font-family="Arial" font-size="24" font-weight="bold" fill="#333333" text-anchor="middle">Our Team</text>
+    
+    <!-- Team Member Cards -->
+    <rect x="100" y="900" width="180" height="220" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <circle cx="190" cy="960" r="40" fill="#dddddd"/>
+    <text x="190" y="1030" font-family="Arial" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">John Doe</text>
+    <text x="190" y="1050" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle">CEO</text>
+    
+    <rect x="310" y="900" width="180" height="220" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <circle cx="400" cy="960" r="40" fill="#dddddd"/>
+    <text x="400" y="1030" font-family="Arial" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">Jane Smith</text>
+    <text x="400" y="1050" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle">CTO</text>
+    
+    <rect x="520" y="900" width="180" height="220" fill="#ffffff" stroke="#cccccc" rx="5"/>
+    <circle cx="610" cy="960" r="40" fill="#dddddd"/>
+    <text x="610" y="1030" font-family="Arial" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">Mike Johnson</text>
+    <text x="610" y="1050" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle">COO</text>
+</svg>
